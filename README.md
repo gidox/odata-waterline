@@ -48,7 +48,7 @@ Call Examples:
     
     - api/example?expand=modelToExpand1,modelToExpand2,modelToExpandN
   
-Controller:
+## Controller Config:
 
     var values = req.allParams()
     
