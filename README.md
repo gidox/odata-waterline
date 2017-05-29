@@ -3,7 +3,7 @@ Service to emulate OData (Open Data Protocol) with waterline orm (.net style)
 
 ## Installation
 
-Paste the file into the folder api/services/
+Paste the file into the folder api/services/  (sailsjs)
 
 ## Extra dependencies
  - lodash
